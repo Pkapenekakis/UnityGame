@@ -1,0 +1,41 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta files should be tracked
+#*.meta
+
+# Visual Studio/MonoDevelop/JetBrains Rider project files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Build files
+Build/
+Builds/
+
+# Unity Cloud Build
+/[Uu]ser[Ss]ettings/
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# JetBrains Rider Editor Plugin
+*.pidb.meta
+*.booproj.meta

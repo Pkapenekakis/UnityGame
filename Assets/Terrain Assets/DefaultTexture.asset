@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ea54397b11c6ad4aa15f98071835cbd, type: 3}
+  m_Name: DefaultTexture
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  layers:
+  - texture: {fileID: 2800000, guid: c4e61c366f9dc2d4ca630bc93ddef8e7, type: 3}
+    tint: {r: 0.04209684, g: 0.33269277, b: 0.8113208, a: 0}
+    tintStrenght: 0
+    startHeight: 0
+    blendStrength: 0
+    textureScale: 15
+  - texture: {fileID: 2800000, guid: 01be04d51fdfa284d84a3c3455c5b577, type: 3}
+    tint: {r: 0.6792453, g: 0.63773274, b: 0.20185119, a: 0}
+    tintStrenght: 0
+    startHeight: 0.009
+    blendStrength: 0.005
+    textureScale: 15
+  - texture: {fileID: 2800000, guid: eee1fd0eea3794e4b8169672f9f9262d, type: 3}
+    tint: {r: 0.13378933, g: 0.3490566, b: 0.11360805, a: 0}
+    tintStrenght: 0
+    startHeight: 0.015
+    blendStrength: 0.006
+    textureScale: 15
+  - texture: {fileID: 2800000, guid: eee1fd0eea3794e4b8169672f9f9262d, type: 3}
+    tint: {r: 0.07958439, g: 0.18867922, b: 0.06674972, a: 0}
+    tintStrenght: 0
+    startHeight: 0.03
+    blendStrength: 0.142
+    textureScale: 15
+  - texture: {fileID: 2800000, guid: 9d12f937bd6c3f048be3cbba14e2acff, type: 3}
+    tint: {r: 0.3254902, g: 0.26666668, b: 0.11372549, a: 0}
+    tintStrenght: 0
+    startHeight: 0.3
+    blendStrength: 0.1
+    textureScale: 13.28
+  - texture: {fileID: 2800000, guid: fe6f78b7e93e03f418a3beb2bd5ef666, type: 3}
+    tint: {r: 0.24313726, g: 0.17254902, b: 0.07058824, a: 0}
+    tintStrenght: 0
+    startHeight: 0.35
+    blendStrength: 0.3
+    textureScale: 21
+  - texture: {fileID: 2800000, guid: e004f4b0090e0b44496c6663e9cc45df, type: 3}
+    tint: {r: 1, g: 1, b: 1, a: 0}
+    tintStrenght: 0
+    startHeight: 0.666
+    blendStrength: 0.239
+    textureScale: 18
